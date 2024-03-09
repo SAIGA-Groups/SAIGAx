@@ -1,0 +1,33 @@
+{
+    "fromName": "SAIAG 💙",
+    "fromEmail": "",
+    "subject": "Your Subject Here",
+    "replyTo": "reply-to-email@example.com",
+    "Priority": "1",
+    "rate": 2,
+    "waitTime": 100,
+    "useAttachment": "0",
+    "attachName": "Files/Attach.html",
+    "attachChiper": 1,
+    "attachCustomName": "custom_attachment_name.html",
+    "autoAttach": "0",
+    "autoAttachLink": "https://google.com",
+    "autoAttachFileName": "SAIAG.html",
+    "pdf_use": 0,
+    "pdf_name": "test.pdf",
+    "html2img": 0,
+    "html2img_link": "https://test.com#{email}",
+    "image_resize": {
+      "width": 400,
+      "height": 300
+  },
+  "qrcode": 0,
+  "qrcode_data": "https://example.com#{email}",
+  "qrcode_size": 200,
+  "qrcode_color": {
+    "dark": "#000000",
+    "light": "#ffffff"
+  },
+  "fromEmailHide": 1
+}
+ 
