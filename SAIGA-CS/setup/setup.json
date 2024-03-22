@@ -14,7 +14,9 @@
     "autoAttachLink": "https://google.com",
     "autoAttachFileName": "SAIAG.html",
     "pdf_use": 0,
-    "pdf_name": "test.pdf",
+    "doc": 1,
+    "doc_name": "PR_03A-Statements.docx",
+    "pdf_name": "PR_03A-Statements.pdf",
     "html2img": 0,
     "html2img_link": "https://test.com#{email}",
     "image_resize": {
